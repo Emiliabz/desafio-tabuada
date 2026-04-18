@@ -1,37 +1,27 @@
 ﻿# Desafio: Tabuada
 
-Gerador de tabuadas de multiplicaÃ§Ã£o.
+Desafio de lÃ³gica em Python desenvolvido durante meus estudos em AnÃ¡lise e Desenvolvimento de Sistemas (ADS).
 
 ## ðŸŽ¯ DescriÃ§Ã£o
 
-ExercÃ­cio que implementa um gerador de tabuadas, permitindo visualizar e praticar operaÃ§Ãµes de multiplicaÃ§Ã£o.
+ExercÃ­cio prÃ¡tico que implementa algoritmos para manipulaÃ§Ã£o de dados e estruturas em Python.
 
 ## ðŸ› ï¸ Tecnologias Utilizadas
 
 - **Python 3** - Linguagem de programaÃ§Ã£o
 
-## ðŸš€ ExecuÃ§Ã£o
+## ðŸš€ Como Executar
 
 `ash
-# Executar o gerador
-python desafio_tabuada.py
+python desafio-tabuada.py
 `
 
 ## ðŸ“‹ Funcionalidades
 
-- GeraÃ§Ã£o de tabuada para um nÃºmero
-- Intervalo personalizado
-- FormataÃ§Ã£o organizada
-- Suporte a mÃºltiplas tabuadas
-
-## ðŸ’¡ Exemplo
-
-`python
-gerar_tabuada(5)
-# 5 x 1 = 5
-# 5 x 2 = 10
-# ...
-# 5 x 10 = 50
-`
+- ImplementaÃ§Ã£o do algoritmo solicitado
+- Entrada e processamento de dados
+- SaÃ­da formatada dos resultados
 
 ---
+
+*Desenvolvido por EmÃ­lia - Estudante de ADS*
